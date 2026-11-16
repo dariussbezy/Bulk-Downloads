@@ -1,0 +1,29 @@
+{
+  "format": 1,
+  "name": "Bulk Downloads",
+  "description": "Save every attachment, GIF and embedded photo or video of a message at once from its long-press menu.",
+  "plugins": {
+    "dariuss.bulk-downloads": {
+      "name": "Bulk Downloads",
+      "description": "Save every attachment, GIF and embedded photo or video of a message at once from its long-press menu.",
+      "author": "dariussbezy <908767091522420817> (https://github.com/dariussbezy \"GitHub\")",
+      "icon": "DownloadIcon",
+      "channels": {
+        "latest": "1.1.0"
+      },
+      "versions": {
+        "1.1.0": {
+          "url": "https://raw.githubusercontent.com/dariussbezy/Bulk-Downloads/main/pool/dariuss.bulk-downloads@1.1.0.zip",
+          "sha256": "4da8d25c0c824595b27b7d19a4e21ca4a0ff68c2232deaa5eed0d137023b61fa",
+          "size": 3573,
+          "dependencies": {
+            "valenced.api": {
+              "version": ">=1 <2"
+            },
+            "discord": {}
+          }
+        }
+      }
+    }
+  }
+}

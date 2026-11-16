@@ -1,0 +1,9 @@
+{
+  "name": "Bulk Downloads",
+  "description": "Save every attachment, GIF and embedded photo or video of a message at once from its long-press menu.",
+  "channels": {
+    "dariuss.bulk-downloads": {
+      "latest": "1.1.0"
+    }
+  }
+}
